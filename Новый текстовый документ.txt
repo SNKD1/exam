@@ -1,0 +1,26 @@
+Диск D – создать папку –  название папки (myrep)​
+
+Правой кнопкой мыши – Git Bash Here​
+
+git clone и ссылка​
+
+Введите логин и  пароль​
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin http://stud-gogs.sttec.yar.ru/stud35/example.git
+git push -u origin master
+
+
+В нашей папке создаем документ 123.docx
+
+Переходим в git bash ​
+
+git add и путь до файла
+git  commit –m и комментарий ​
+
+(git commit –m ‘hello’)
+
+git push
